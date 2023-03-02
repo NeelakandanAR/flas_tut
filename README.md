@@ -1,2 +1,2 @@
-# flas_tut
+# flasl_tut
 A Flask tutorial
